@@ -10,6 +10,8 @@ Note taker
 
 you can also find the app running on Heroku
 
-github: https://github.com/rhineyman/NoteTaker
+github : https://github.com/rhineyman/NoteTaker
 
-heroku app : https://dashboard.heroku.com/apps/infinite-dawn-00571
+heroku repository : https://dashboard.heroku.com/apps/infinite-dawn-00571
+
+heroku deployment : https://infinite-dawn-00571.herokuapp.com/
